@@ -1,0 +1,4 @@
+Copy your Roblox Directory here the files
+
+rename "RobloxPlayerBeta.exe" to "gameJoin.exe"
+
